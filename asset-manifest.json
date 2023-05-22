@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/deliciouse/static/css/main.ef03e120.css",
-    "main.js": "/deliciouse/static/js/main.2fd9faed.js",
+    "main.js": "/deliciouse/static/js/main.6f857e42.js",
     "index.html": "/deliciouse/index.html",
     "main.ef03e120.css.map": "/deliciouse/static/css/main.ef03e120.css.map",
-    "main.2fd9faed.js.map": "/deliciouse/static/js/main.2fd9faed.js.map"
+    "main.6f857e42.js.map": "/deliciouse/static/js/main.6f857e42.js.map"
   },
   "entrypoints": [
     "static/css/main.ef03e120.css",
-    "static/js/main.2fd9faed.js"
+    "static/js/main.6f857e42.js"
   ]
 }
